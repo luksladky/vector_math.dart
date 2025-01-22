@@ -1,4 +1,4 @@
-name: vector_math
+name: vector_math_patched
 version: 2.1.5
 description: A Vector Math library for 2D and 3D applications.
 repository: https://github.com/google/vector_math.dart
